@@ -1,0 +1,69 @@
+body {
+    background-color: rgba(154, 171, 143, 0.726);
+    color: rgb(88, 160, 37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+    background-color: antiquewhite;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    display: block;
+    padding: 20px;
+}
+
+header {
+    background-image: url("/Bandsite/Arcticmonkeys.jpg");
+    background-size: cover;
+    background-position: top;
+}
+
+header h1 {
+    margin-bottom: 400px;
+}
+
+nav a:hover {
+    background-color: darkolivegreen;
+    color: antiquewhite;
+}
+
+section {
+    padding: 10px;
+}
+
+img {
+    width: 80%;
+    padding: 10px 50px 20px;
+}
+
+a {
+    color: rgb(121, 140, 108, 0.726);
+}
+
+#Live {
+    background-color: antiquewhite;
+    color: rgba(105, 122, 93, 0.726);
+    padding: 1em;
+
+}
+
+#home {
+    background-color: antiquewhite;
+    color: rgba(105, 122, 93, 0.726);
+}
+
+#merch {
+    background-color: antiquewhite;
+    color: rgba(105, 122, 93, 0.726);
+}
+
+#Albums {
+    background-color: antiquewhite;
+    color: rgba(105, 122, 93, 0.726);
+    padding: 1em;
+}

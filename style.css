@@ -1,0 +1,28 @@
+#about {
+    display: flex;
+    padding: 4px;
+}
+body {
+    background-color: rgba(166, 0, 255, 0.452);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.col {
+    border: 1px solid rgba(144, 0, 255, 0.452)
+
+}
+a {
+    color: rgb(206, 91, 255);
+
+}
+.left {
+    flex: 4;
+}
+.right {
+    flex: 6;
+}
+header, main{
+    background: rgba(151, 51, 198, 0.995);
+    border-bottom: 2px solid rgb(50, 2, 83);
+    margin: 5%;
+
+}
