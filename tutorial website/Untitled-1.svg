@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120.47 32.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #be1e2d;
+      }
+
+      .cls-3 {
+        font-family: BritannicBold, 'Britannic Bold';
+        font-size: 19.98px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="0" y="0" width="120.47" height="32.28" rx="16.14" ry="16.14"/>
+  <rect class="cls-1" x="6.69" y="6.69" width="105.71" height="18.31" rx="9.15" ry="9.15"/>
+  <text class="cls-3" transform="translate(10.63 21.78) scale(.87 1)"><tspan x="0" y="0">pun tutorials</tspan></text>
+</svg>
